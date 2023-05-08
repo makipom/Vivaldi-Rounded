@@ -1,2 +1,31 @@
-# Vivaldi-Rounded
-A custom CSS theme for Vivaldi, made with mouse gestures and hotkey use in mind.
+# Vivaldi Rounded
+A custom CSS theme for Vivaldi, made with mouse gestures and hotkey use in mind.   
+Can be used with any theme, both light and dark, taking its accent colors from the selected browser theme.   
+Works best with sidebar and address bar hidden (While summoning them, if needed, by pressing F7 and F8 respectively).   
+
+### Key features:
+
+* Rounded "floating" tabs.    
+* Transparent sidebar, sidebar menus.    
+* "Vivaldi" button, minimize/maximize buttons show only when you hover a cursor over them.    
+* No "close" button. To avoid misclicking. Browser can be closed from the main menu.    
+* No "new tab" button. To be opened with mouse gestures and/or hotkeys.    
+* New appearance for the "Vivaldi" menu button.    
+* New tab tiles appear when hovering over them with your cursor.
+
+### Screenshots   
+
+![image](https://user-images.githubusercontent.com/118981482/236802451-27d23044-90b3-4cb7-a3f2-8a1ea5dfe037.png)    
+![image](https://user-images.githubusercontent.com/118981482/236802482-ebbb3a8e-1f8d-49e6-88ad-5be2c0cb82f6.png)    
+![image](https://user-images.githubusercontent.com/118981482/236803153-167f7a18-8c86-46d8-a5be-f8978e92512f.png)
+
+
+Works with the latest at the moment (6.0) Stable release of Vivaldi.    
+Created this theme for personal use, but since there are not much custom themes for Vivaldi out there, thought that someone might be interested.
+
+#### Credits:    
+
+* [Vivaldi-UI-Changer](https://github.com/Ablaze-MIRAI/Vivaldi-UI-Changer) - by [Ablaze-MIRAI](https://github.com/Ablaze-MIRAI)    
+Used some of their code in the earlier days, and even though it's mostly different now - if not for this theme, there would've been nothing.    
+* [ナポリタン寿司](naporitansushi.com)     
+Used some of the code showcased in this blog.
