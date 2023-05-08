@@ -19,6 +19,15 @@ Works best with sidebar and address bar hidden (While summoning them, if needed,
 ![image](https://user-images.githubusercontent.com/118981482/236802482-ebbb3a8e-1f8d-49e6-88ad-5be2c0cb82f6.png)    
 ![image](https://user-images.githubusercontent.com/118981482/236803153-167f7a18-8c86-46d8-a5be-f8978e92512f.png)
 
+### Pre-installation     
+* Go to `vivaldi://experiments/`  and check `Allow CSS modification`, then restart your browser;     
+* Open `Settings → Appearance` and scroll down to see the `Custom UI Modification` option;    
+* Create a folder anywhere you want, for example it can be named `VivaldiCSS` in the `Documents` library;     
+* Link this folder in the `Custom UI Modification` setting.    
+### Installation    
+* Download the `vivaldi-rounded.css` file from this repository;    
+* Copy the `vivaldi-rounded.css` into the folder you've created in the `Pre-installation` step;     
+* Restart your browser.
 
 Works with the latest at the moment (6.0) Stable release of Vivaldi.    
 Created this theme for personal use, but since there are not much custom themes for Vivaldi out there, thought that someone might be interested.
