@@ -36,5 +36,5 @@ Created this theme for personal use, but since there are not much custom themes 
 
 * [Vivaldi-UI-Changer](https://github.com/Ablaze-MIRAI/Vivaldi-UI-Changer) - by [Ablaze-MIRAI](https://github.com/Ablaze-MIRAI)    
 Used some of their code in the earlier days, and even though it's mostly different now - if not for this theme, there would've been nothing.    
-* [ナポリタン寿司](naporitansushi.com)     
+* [ナポリタン寿司](https://www.naporitansushi.com/)     
 Used some of the code showcased in this blog.
