@@ -1,3 +1,4 @@
+![kokonobanner1](https://user-images.githubusercontent.com/118981482/237044903-f6e9576f-167d-45e5-bd1b-1dd981e377df.png)
 # Vivaldi Rounded
 A custom CSS theme for `Vivaldi`, made with mouse gestures and hotkey use in mind.   
 Can be used with any theme, both light and dark, taking its accent colors from the selected browser theme.   
