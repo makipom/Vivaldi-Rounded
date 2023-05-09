@@ -15,15 +15,16 @@ Works best with sidebar and address bar hidden (While summoning them, if needed,
 
 ## Screenshots   
 
-![image](https://user-images.githubusercontent.com/118981482/236802451-27d23044-90b3-4cb7-a3f2-8a1ea5dfe037.png)    
+![image](https://user-images.githubusercontent.com/118981482/236997494-20ca71e7-ce0a-4a9e-b1c1-df8dd0d9c3e0.png)     
 `With a light theme.`   
 
-![image](https://user-images.githubusercontent.com/118981482/236802482-ebbb3a8e-1f8d-49e6-88ad-5be2c0cb82f6.png)    
+![image](https://user-images.githubusercontent.com/118981482/236997353-29c2f32b-978b-4c87-b9c1-6a00487295f4.png)     
 `With a dark theme.`   
 
-![image](https://user-images.githubusercontent.com/118981482/236992304-9f59f07c-4827-470c-90ec-e040a1a99ef7.png)     
-![image](https://user-images.githubusercontent.com/118981482/236803153-167f7a18-8c86-46d8-a5be-f8978e92512f.png)   
-`With a different colored background images.`   
+![image](https://user-images.githubusercontent.com/118981482/236997000-0879a22c-fef5-49de-abce-643cf2ef4053.png)     
+![image](https://user-images.githubusercontent.com/118981482/236997211-ca7e6084-e997-46a8-b159-d94836d9b962.png)     
+![image](https://user-images.githubusercontent.com/118981482/236997683-24650b2c-ad09-41d4-aa64-97c175c182b7.png)    
+`With a different background images.`   
 
 All screenshots were taken with `Transparency 20%`, `Blur 10`, `Transparent bar` and `Transparent background tab` settings.
 
