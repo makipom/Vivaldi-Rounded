@@ -1,3 +1,19 @@
+div#browser:not(.address-top) > #header {
+  box-shadow: none;
+}
+
+.MarkdownRender hr {
+  border-bottom: none;
+}
+
+.tiled.webpageview:not(.active) {
+  box-shadow: none;
+}
+
+.isblurred .tiled.webpageview.active {
+  box-shadow: none;
+}
+
 div#header .window-buttongroup {
     opacity: 0;
     transition-duration: 0.4s;
