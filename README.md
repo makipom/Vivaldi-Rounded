@@ -24,7 +24,7 @@ Works best with sidebar and address bar hidden (While summoning them, if needed,
 ![image](https://user-images.githubusercontent.com/118981482/236997000-0879a22c-fef5-49de-abce-643cf2ef4053.png)     
 ![image](https://user-images.githubusercontent.com/118981482/236997211-ca7e6084-e997-46a8-b159-d94836d9b962.png)     
 ![image](https://user-images.githubusercontent.com/118981482/236997683-24650b2c-ad09-41d4-aa64-97c175c182b7.png)    
-`With a different background images.`   
+`With different background images.`   
 
 All screenshots were taken with `Transparency 20%`, `Blur 10`, `Transparent bar` and `Transparent background tab` settings.
 
